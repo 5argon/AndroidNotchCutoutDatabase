@@ -19,6 +19,7 @@ You can add the device even if it came with Android P by default.
 These phones have a notch but I don't know its correct model number and metadata. Someone with the actual device needs to debug this and put in the CSV correctly.
 Additionally if you are too lazy to put in the CSV but found a new device you can put them here.
 
+- Pixel 3
 - Oppo R15
 - Oppo R15 Pro
 - Oppo F7
