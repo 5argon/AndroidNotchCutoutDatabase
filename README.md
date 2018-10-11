@@ -22,10 +22,7 @@ Additionally if you are too lazy to put in the CSV but found a new device you ca
 - Oppo R15
 - Vivo V11
 - Vivo V11i
-- Sharp Aquos R2
 - Doogee V
-- Doogee X70
-- Ulefone X
 
 ## License
 
