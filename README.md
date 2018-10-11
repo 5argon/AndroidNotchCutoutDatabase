@@ -1,6 +1,6 @@
 The notch popularized by the iPhone X is officially called "cutout" by Google. So I will go by this term. For programmers it is critical to detect that the phone has a notch or not. Unfortunately the reliable API is on Android Pie but these notch goes widespread just before Android Pie (Oreo 8.1.0), and these devices would be in the market for 2-3 years. As long as there is a probability that the user has Oreo phone with a notch we need an other way to detect it, that is, comparing the device's information with this database. 
 
-I guarantee no correctness of this list. Almost all of this was gathered by searching for images/articles.
+I guarantee no correctness of this list. Almost all of this was gathered by searching for images/articles. Thanks to all contributors too!
 
 ## Usage
 
