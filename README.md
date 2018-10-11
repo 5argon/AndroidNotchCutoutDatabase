@@ -1,4 +1,5 @@
-The notch popularized by the iPhone X is officially called "cutout" by Google. So I will go by this term.
+The notch popularized by the iPhone X is officially called "cutout" by Google. So I will go by this term. For programmers it is critical to detect that the phone has a notch or not. Unfortunately the reliable API is on Android Pie but these notch goes widespread just before Android Pie (Oreo 8.1.0), and these devices would be in the market for 2-3 years. As long as there is a probability that the user has Oreo phone with a notch we need an other way to detect it, that is, comparing the device's information with this database. 
+
 I guarantee no correctness of this list. Almost all of this was gathered by searching for images/articles.
 
 ## Usage
@@ -19,10 +20,11 @@ You can add the device even if it came with Android P by default.
 These phones have a notch but I don't know its correct model number and metadata. Someone with the actual device needs to debug this and put in the CSV correctly.
 Additionally if you are too lazy to put in the CSV but found a new device you can put them here.
 
-- Oppo R15
+- Oppo R15 (non-pro version)
 - Vivo V11
 - Vivo V11i
 - Doogee V
+- Or any other phones not in the CSV
 
 ## License
 
